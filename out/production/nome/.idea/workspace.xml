@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbcfab98-bc63-46b7-85d2-d9995235762a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl/IAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl/IMainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl/IOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl/ITravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl/ITravelDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impl/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfacec/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfacec/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfacec/Orderr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfacec/TravelDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfacec/Travell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfacec/Userr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectss/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectss/Buses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectss/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectss/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectss/Travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectss/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JGb7W3NU5tmY0pX3BgbpDVWRgW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/nome&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="objectss" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectss.Application" />
+      <module name="nome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbcfab98-bc63-46b7-85d2-d9995235762a" name="Changes" comment="" />
+      <created>1671707201227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671707201227</updated>
+      <workItem from="1671707202286" duration="3723000" />
+      <workItem from="1671727804184" duration="15263000" />
+      <workItem from="1671813823573" duration="1310000" />
+      <workItem from="1671858176063" duration="3351000" />
+      <workItem from="1671874053653" duration="4380000" />
+      <workItem from="1671905365916" duration="2169000" />
+      <workItem from="1671982462415" duration="12458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
